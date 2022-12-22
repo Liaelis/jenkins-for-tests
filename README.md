@@ -1,2 +1,2 @@
-# jenkins-from-tests
-Tests from study CI/CD
+# jenkins-for-tests
+Tests for study CI/CD
